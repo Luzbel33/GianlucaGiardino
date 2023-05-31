@@ -554,6 +554,7 @@ section {
   align-items: center;
   text-align: center;
   }
+
 .contact-content-con .left-contact .contact-info .contact-item {
   display: flex;
   align-items: center;
@@ -830,6 +831,10 @@ section {
   }
   .contact-item .icon {
     grid-template-columns: 25px 1fr;
+  }
+  .contact-info{
+    margin-top: -60px;
+    margin-bottom: -40px;
   }
 
   .main-title h2 {
