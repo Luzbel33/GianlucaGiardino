@@ -548,6 +548,7 @@ section {
 .contact-content-con .left-contact p {
   margin: 1rem 0;
   line-height: 2rem;
+  color: #777f87;
 }
 .contact-content-con .left-contact  {
   display: flex;
