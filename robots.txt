@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://luzbel33.github.io/GianlucaGiardino/
+Sitemap: https://luzbel33.github.io/GianlucaGiardino/sitemap.xml
